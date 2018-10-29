@@ -7,4 +7,4 @@ La borne interactive événementielle est composée de deux sous-systèmes :
 - système de diffusion (accessible uniquement par le client loueur)
 
 Ayant travaillé uniquement sur le système de prise de vue, seul les fichiers en rapport sont présents.
-Le logiciel de prise de vue dispose de deux versions, une pour windows et l'autre pour Raspbian.
+Le logiciel de prise de vue dispose de deux versions, une pour windows et l'autre pour Raspbian (utilisation de la cross-compilation pour déployer le logiciel sur la carte Raspberry Pi).
