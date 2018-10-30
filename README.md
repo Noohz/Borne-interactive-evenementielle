@@ -9,7 +9,7 @@ La borne interactive événementielle est composée de deux sous-systèmes :
 Ayant travaillé uniquement sur le système de prise de vue, seul les fichiers en rapport sont présents.
 Le logiciel de prise de vue dispose de deux versions, une pour windows et l'autre pour Raspbian (utilisation de la cross-compilation pour déployer le logiciel sur la carte Raspberry Pi).
 
-## Utilisation du logiciel
+## Utilisation du logiciel de prise de vue
 
 Lors d'une première utilisation  (fichier options.ini manquant), la page du mode paramétrage s'affiche.
 
